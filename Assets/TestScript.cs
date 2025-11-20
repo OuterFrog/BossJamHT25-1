@@ -19,6 +19,7 @@ public class TestScript : MonoBehaviour
     void FixedUpdate()
     {
         test++;
+        //gabbe was here
         Debug.Log(test);
     }
 }
